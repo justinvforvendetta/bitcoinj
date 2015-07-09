@@ -38,6 +38,7 @@ public class Networks {
         BLACKCOIN,
         REDDCOIN,
         PEERCOIN,
+        DOGECOINDARK,
         NUBITS
     }
 
