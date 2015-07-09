@@ -47,7 +47,7 @@ public class Networks {
     private static final Pattern blackcoinFamily = Pattern.compile(".*(blackcoin).*");
     private static final Pattern reddcoinFamily = Pattern.compile(".*(reddcoin).*");
     private static final Pattern peercoinFamily = Pattern.compile(".*(peercoin).*");
-    private static final Pattern peercoinFamily = Pattern.compile(".*(dogecoindark).*");
+    private static final Pattern dogecoindarkFamily = Pattern.compile(".*(dogecoindark).*");
     private static final Pattern nubitsFamily = Pattern.compile(".*(nubits|nushares).*");
 
     /** Registered networks */
